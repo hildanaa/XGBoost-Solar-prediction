@@ -1,4 +1,4 @@
-Solar Energy Prediction — AMS 2013–2014 Contest
+## Solar Energy Prediction — AMS 2013–2014 Contest
 
 Forecasting daily **solar energy output** for the **ACME** station using historical weather data, PCA components, and Numerical Weather Prediction (NWP) variables.  
 This project replicates a real-world long-horizon forecasting challenge: predicting five years (2008–2012) of missing solar output based on past data (1994–2007).
